@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\1.Scripts\DebugLog.cs" />
+    <Compile Include="Assets\1.Scripts\Mover.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
